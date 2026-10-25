@@ -1,4 +1,6 @@
 [core]
-    remote = localstorage
+    remote = origin
 ['remote "localstorage"']
+    url = /content/dvc_repository
+['remote "origin"']
     url = /content/dvc_repository
